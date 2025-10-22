@@ -172,7 +172,7 @@ pcode run_cases_from_table.m tmlxSolver.m
 
 - **Zexin Feng（冯泽鑫）**, Tianjin University（天津大学） — <fengzexin268@gmail.com>
 - **Lin Zhang（张琳）**, Nankai University（南开大学） — <liz020129@163.com>
-- **Lv Shuang（吕爽）**, Inner Mongolia University（内蒙古大学） — <liz020129@163.com>
+- **Lv Shuang（吕爽）**, Inner Mongolia University（内蒙古大学） — <13504537325@163.com>
 
 **Date / 日期**
 
