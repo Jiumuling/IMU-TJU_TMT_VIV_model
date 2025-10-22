@@ -1,0 +1,1 @@
+ run_cases_from_table('cases.csv')
